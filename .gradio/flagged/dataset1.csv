@@ -1,0 +1,2 @@
+Context,Questions (one per line),Ground Truth (one Yes/No per line),Comparison Results,Disagreements,timestamp
+"The company launched its new software with features like data encryption and automatic backups. Pricing information is available, but there's no mention of customer support options.",Does it mention pricing?,Yes,,"{""headers"": [""Question"", ""Model 1 Response"", ""Model 2 Response"", ""Ground Truth""], ""data"": [["""", """", """", """"]], ""metadata"": null}",2024-12-03 16:59:34.924420
